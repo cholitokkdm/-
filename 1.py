@@ -1,4 +1,5 @@
 from pygame import *
+from random import *
 '''Необходимые классы'''
 
 #класс-родитель для спрайтов 
